@@ -8,15 +8,16 @@ Likewise, there is code that allows using the [SwissADME](http://www.swissadme.c
 There is a code that allows you to filter the data frames according to the desired characteristics. By default, there are parameters to select molecules directed at membrane proteins of the central nervous system.
 
 # Chemical Similarity and Dimension reduction   
-Similarity algorithms through the use of multiple fingerprints and t-sne algorithm.  
+Similarity algorithms through the use of multiple fingerprints and t-SNE algorithm.  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Software and Libraries
-[LigBuilder V3](http://www.pkumdl.cn:8080/ligbuilder3/intro.html)
-[OpenEye](https://www.eyesopen.com/academic-licensing)
-[MayaChemTools FPs](http://www.mayachemtools.org/Download.html)
-
+[LigBuilder V3](http://www.pkumdl.cn:8080/ligbuilder3/intro.html)  
+[OpenEye](https://www.eyesopen.com/academic-licensing)  
+[MayaChemTools FPs](http://www.mayachemtools.org/Download.html)  
+[Obabel](https://open-babel.readthedocs.io/en/latest/Installation/install.html)  
+  
 
 ### Python
 selenium                           4.14.0             
