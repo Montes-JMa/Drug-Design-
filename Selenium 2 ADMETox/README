@@ -1,0 +1,1 @@
+These scripts allow you to use selenium, to enter a list of smiles to the server [SwissADME](http://www.swissadme.ch/), you can also enter the PDB files to calculate properties of the molecules inside the membranes, using the server [PERMM](https://permm.phar.umich.edu/).
