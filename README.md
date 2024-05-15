@@ -13,8 +13,8 @@ Similarity algorithms through the use of multiple fingerprints and t-sne algorit
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Software and Libraries
-[LigBuilder V3] ( http://www.pkumdl.cn:8080/ligbuilder3/intro.html)
-[OpenEye] (https://www.eyesopen.com/academic-licensing)
+[LigBuilder V3](http://www.pkumdl.cn:8080/ligbuilder3/intro.html)
+[OpenEye](https://www.eyesopen.com/academic-licensing)
 [MayaChemTools FPs](http://www.mayachemtools.org/Download.html)
 
 
