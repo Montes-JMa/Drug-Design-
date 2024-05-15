@@ -1,14 +1,14 @@
 # Drug-Design
-In this repository, you will find the instructions to generate new molecules using genetic algorithms based on chemical similarity. 
+In this repository, you will find the instructions to generate new molecules using genetic algorithms based on chemical similarity.   
 
-# Python (Selenium) to predict ADMETox properties
-Likewise, there is code that allows using the [SwissADME](http://www.swissadme.ch/) server to calculate ADMETox properties for each of the molecules.
+# Python (Selenium) to predict ADMETox properties  
+Likewise, there is code that allows using the [SwissADME](http://www.swissadme.ch/) server to calculate ADMETox properties for each of the molecules.  
 
-# Data Filtering
+# Data Filtering  
 There is a code that allows you to filter the data frames according to the desired characteristics. By default, there are parameters to select molecules directed at membrane proteins of the central nervous system.
 
-# Chemical Similarity and Dimension reduction 
-Similarity algorithms through the use of multiple fingerprints and t-sne algorithm.
+# Chemical Similarity and Dimension reduction   
+Similarity algorithms through the use of multiple fingerprints and t-sne algorithm.  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -28,7 +28,8 @@ scikit-learn                       1.2.2
 
 
 ### R
-library(reshape)
-library(rcdk)
-library(fingerprint)
-library(ggplot2)
+library(reshape)  
+library(rcdk)  
+library(fingerprint)  
+library(ggplot2)  
+ 
