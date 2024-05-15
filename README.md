@@ -20,12 +20,12 @@ Similarity algorithms through the use of multiple fingerprints and t-SNE algorit
   
 
 ### Python
-selenium                           4.14.0             
-selenium-manager          4.14.0               
-pandas                              2.1.1
-plotly                                 5.9.0
-rdkit                                   2020.09.3
-scikit-learn                       1.2.2 
+selenium                           4.14.0               
+selenium-manager                   4.14.0                 
+pandas                             2.1.1  
+plotly                             5.9.0   
+rdkit                              2020.09.3   
+scikit-learn                       1.2.2    
 
 
 ### R
